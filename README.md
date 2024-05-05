@@ -115,7 +115,6 @@ actions = {
 
 plan = find_plan(initial_state, goal_state, actions)
 print(plan)
-'''
 ```
 ## RESULT:
 Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.

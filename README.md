@@ -81,6 +81,8 @@ def find_plan(initial_state, goal_state, actions):
     return None
 def is_applicable(current_state, precondition):
     return all(current_state.get(key) == value for key, value in precondition.items())
+```
+```
 # Example usage
 '''
 initial_state = {'A': 'Table', 'B': 'Table'}

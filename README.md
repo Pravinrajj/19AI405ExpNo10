@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-#### DEVELOPED BY: **PRAVINRAJJ G.K***
-#### REG NO: **212222240080***
+#### DEVELOPED BY: **PRAVINRAJJ G.K**
+#### REG NO: **212222240080**
 ## AIM:
 To Implementation of Classical Planning Algorithm
 ## Algorithm:
